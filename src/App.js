@@ -11,10 +11,8 @@ function App() {
     <div className="App">
       <Router>
         <Switch>
-          <header className="App-header">
-            <Route exact path='/' component={ShowView}/>
-            <Route exact path='/favourites' component={ShowFavourites}/>
-          </header>
+            <Route exact path='/involvio-shows' component={ShowView}/>
+            <Route path='/favourites' component={ShowFavourites}/>
         </Switch>
       </Router>
     </div>
