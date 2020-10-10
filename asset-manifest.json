@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/involvio-shows/static/css/main.0ba069c1.chunk.css",
+    "main.js": "/involvio-shows/static/js/main.1126e3fb.chunk.js",
+    "main.js.map": "/involvio-shows/static/js/main.1126e3fb.chunk.js.map",
+    "runtime-main.js": "/involvio-shows/static/js/runtime-main.9b8c689e.js",
+    "runtime-main.js.map": "/involvio-shows/static/js/runtime-main.9b8c689e.js.map",
+    "static/js/2.0f8b614f.chunk.js": "/involvio-shows/static/js/2.0f8b614f.chunk.js",
+    "static/js/2.0f8b614f.chunk.js.map": "/involvio-shows/static/js/2.0f8b614f.chunk.js.map",
+    "index.html": "/involvio-shows/index.html",
+    "precache-manifest.6779f09c1ae5a1ad7c081ead2dc82cb0.js": "/involvio-shows/precache-manifest.6779f09c1ae5a1ad7c081ead2dc82cb0.js",
+    "service-worker.js": "/involvio-shows/service-worker.js",
+    "static/css/main.0ba069c1.chunk.css.map": "/involvio-shows/static/css/main.0ba069c1.chunk.css.map",
+    "static/js/2.0f8b614f.chunk.js.LICENSE.txt": "/involvio-shows/static/js/2.0f8b614f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b8c689e.js",
+    "static/js/2.0f8b614f.chunk.js",
+    "static/css/main.0ba069c1.chunk.css",
+    "static/js/main.1126e3fb.chunk.js"
+  ]
+}
