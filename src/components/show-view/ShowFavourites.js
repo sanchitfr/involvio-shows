@@ -10,7 +10,7 @@ const ShowFavourites = ({shows, removeFavourite}) => {
     return (
         <div>
             <h1>Favourites</h1>
-            <Link to='/'>Back to all</Link>
+            <Link to='/involvio-shows'>Back to all</Link>
             <div className='grid-container'>
                 {
                     shows &&
